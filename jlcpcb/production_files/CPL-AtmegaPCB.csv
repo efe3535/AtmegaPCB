@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,22pF,C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal,110.5,-116.0,180.0,top
+C2,22pF,C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal,110.5,-120.0,0.0,top
+D1,LED,LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm,179.5825,-96.225,180.0,top
+D2,LED,LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm,172.0825,-96.225,180.0,top
+D3,LED,LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm,164.5825,-96.225,180.0,top
+D4,LED,LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm,157.0825,-96.225,180.0,top
+D5,LED,LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm,149.5825,-96.225,180.0,top
+D6,LED,LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm,142.0825,-96.225,180.0,top
+D7,LED,LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm,134.5825,-96.225,180.0,top
+D8,LED,LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm,127.0825,-96.225,180.0,top
